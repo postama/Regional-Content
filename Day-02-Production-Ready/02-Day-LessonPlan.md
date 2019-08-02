@@ -55,8 +55,9 @@ https://www.youtube.com/watch?v=qdB8SRhqvFc
 
 ### 5. UI Testing
 
-* 1. Jest
 * 2. Cypress
+node_modules/.bin/cypress open
+
 
 ### 6. Statically Typed Languages with TypeScript
 
@@ -65,4 +66,3 @@ https://www.youtube.com/watch?v=qdB8SRhqvFc
 * Better autocomplete
 * Easier refactor
 
-### 7. Next.js?
