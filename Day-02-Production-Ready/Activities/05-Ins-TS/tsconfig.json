@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "lib": [
+        "es2017",
+        "dom"
+      ],
+      "moduleResolution": "node",
+      "noUnusedLocals": true,
+      "sourceMap": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "target": "es2017",
+      "outDir": "lib"
+    },
+    "exclude": [
+      "node_modules"
+    ]
+  }
+  

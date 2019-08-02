@@ -61,8 +61,13 @@ node_modules/.bin/cypress open
 
 ### 6. Statically Typed Languages with TypeScript
 
+* Talk about benefits of Statically Typed languages
 * Show TS on Microsoft
+* Show that types cannot change dynamically
 * Simple case - Add takes an number, not a string (online + example)
 * Better autocomplete
 * Easier refactor
+
+show auto-complete with 05-Ins-TS
+show refactoring
 
