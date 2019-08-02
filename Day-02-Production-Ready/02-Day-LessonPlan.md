@@ -4,7 +4,7 @@
 
 Slides
 
-* alt text for imates
+* alt text for images
 
 * If you can use a native HTML element [HTML] or attribute with the semantics and behavior you require already built in, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, then do so.
 
