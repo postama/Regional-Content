@@ -1,7 +1,5 @@
 ## 21.1 Lesson Plan - Advanced JavaScript. Debugging, Promises, Async/Await, Rest/Spread
 
-`Summary: Complete activities 1-4 in Lesson`
-
 ### Overview
 
 In this class we will be diving into some more advanced JavasScript topics
