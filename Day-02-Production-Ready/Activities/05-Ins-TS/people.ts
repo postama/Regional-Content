@@ -1,9 +1,16 @@
 import { Person } from './person';
 
+export type Language = {
+    name: string,
+    static: boolean
+};
+
 export const people: Person[] = [{
     name: 'Jose',
-    languages: ['Elixir'],
-    static: false
+    languages: [{
+        name: 'Elixir',
+        static: false
+    }]
 }, {
     name: 'Bjarne',
     languages: ['C++'],

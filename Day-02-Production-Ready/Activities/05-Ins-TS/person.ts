@@ -1,5 +1,12 @@
+import { Language } from './people';
+
 export type Person = {
     name: string,
-    static: boolean,
-    languages: string[]
+    languages: Language[]
 }
+
+// let brendan: Person = {
+//     name: 'brendan',
+//     static: false,
+//     languages: ['JavaScript']
+// }
